@@ -1,5 +1,6 @@
 import json
 
+# Initialize empty list to store a place
 places = []
 
 while True:
